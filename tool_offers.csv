@@ -312,8 +312,8 @@ Nail_NonBuyer_6,Nail,3,24,14,40,40,50,1200,false,true
 Nail_NonBuyer_7,Nail,5,40,24,40,50,,1200,false,true
 Nail_NonBuyer_8,Nail,5,40,22,45,50,,1200,false,true
 ,,,,,,,,,,
-Bolt_NonBuyer_1,Bolt,3,24,16,35,20,30,1200,false,true
-Bolt_NonBuyer_2,Bolt,4,32,21,35,20,30,1200,false,true
+Bolt_NonBuyer_1,Bolt,3,24,16,35,20,60000000,1200,false,true
+Bolt_NonBuyer_2,Bolt,4,32,21,1000,20,30,1200,false,true
 Bolt_NonBuyer_3,Bolt,4,32,19,40,30,40,1200,false,true
 Bolt_NonBuyer_4,Bolt,5,40,26,35,30,40,1200,false,true
 Bolt_NonBuyer_5,Bolt,4,32,18,45,40,50,1200,false,true
@@ -346,4 +346,4 @@ WoodPanel_NonBuyer_4,Wood Panel,5,40,22,45,30,40,1200,false,true
 WoodPanel_NonBuyer_5,Wood Panel,4,32,18,45,40,50,1200,false,true
 WoodPanel_NonBuyer_6,Wood Panel,3,24,14,40,40,50,1200,false,true
 WoodPanel_NonBuyer_7,Wood Panel,5,40,28,30,50,,1200,false,true
-WoodPanel_NonBuyer_8,Wood Panel,5,40,22,45,50,,1200,false,true
+WoodPanel_NonBuyer_8,Wood Panel,999999999,999999,999999,9999999,999999999,,7000000000,false,true
